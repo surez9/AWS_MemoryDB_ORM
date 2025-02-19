@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\dipesh\Dipesh - Project\ESDMemoryTest\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-11T10:59:50.0768577Z||;True|2024-09-06T09:50:14.9320871+00:00||;True|2024-09-06T09:12:08.3359143+00:00||;True|2024-09-06T09:04:03.1737634+00:00||;True|2024-09-06T08:43:39.7659985+00:00||;True|2024-09-06T08:02:08.2509971+00:00||;True|2024-09-06T07:54:33.7296872+00:00||;True|2024-09-06T07:41:20.1569167+00:00||;True|2024-09-06T07:40:45.4240053+00:00||;True|2024-09-06T07:40:33.5657324+00:00||;True|2024-09-06T07:18:42.1578476+00:00||;False|2024-09-06T07:18:21.0496334+00:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

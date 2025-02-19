@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ESDMemoryORMTest", "ESDMemoryORMTest.csproj", "{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392FF5F1-1936-4D7D-B2BD-F2CED4F5D111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77F0DA5-1EF1-43FD-B2FD-5A6D43791094}
+	EndGlobalSection
+EndGlobal
